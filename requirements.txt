@@ -5,3 +5,4 @@ faiss-cpu
 streamlit
 transformers
 huggingface_hub
+langchain_community
